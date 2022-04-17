@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Habib43005
+- 👋 Hi, I’m @Habib
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning CloudOps
 - 💞️ I’m looking to collaborate on ...
